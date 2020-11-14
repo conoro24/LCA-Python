@@ -1,4 +1,4 @@
-from LowestCommonAncestorDAG import Node, dagLCA
+from LCA2 import Node, dagLCA
 
 class TestLowestCommonAncestorDAG:
     def test_simple(self):
